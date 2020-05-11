@@ -1,0 +1,14 @@
+2
+FishStore
+square shop:15
+Products:
+bass price:5
+salmon price:10
+
+MeatStore
+square shop:15
+Products:
+pork price:5
+poultry price:3
+beef price:6
+
