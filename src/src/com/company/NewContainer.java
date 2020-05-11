@@ -54,7 +54,7 @@ public class NewContainer extends MyContainer<GroceryStore> {
                 factory = new GenericFactory<GroceryStore>() {
                     @Override
                     public GroceryStore create() {
-                        int index;
+                        int index = 0;
                         GroceryStore result = null;
                         //создаем экземпляр объекта перебирая список с информацией
                         //загруженной из файла
