@@ -1,4 +1,4 @@
-package src.com.company;
+package com.company;
 
 public interface GenericFactory<T> {
     T create();
